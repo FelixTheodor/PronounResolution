@@ -17,7 +17,7 @@ class Config:
                               "corpus/xml/" + str_number + ".xml",
                               )
 
-    doPreprocessing = False
+    doPreprocessing = True
 
     # configure, which criterias to apply
     Rules = {
