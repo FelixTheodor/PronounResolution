@@ -1,4 +1,4 @@
-Disclaimer: Due to a bug, the system cant be debugged if DEMorphy is included.
+Disclaimer: Due to a bug in DEMorphy, the system cant be debugged if it is included.
 Therefore, it is only used in the preprocessing, so you can run the system once and do the
 preprocessing (files are written to corpus/preprocessed) and debug the rest of the system
 afterwards without preprocessing (it increases the performance, too).
